@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-03-03T15:56:49.880Z",
+  "images": [
+    "hero-1.png",
+    "gallery-1.png",
+    "gallery-2.png",
+    "gallery-3.png",
+    "gallery-4.png",
+    "before.png",
+    "after.png",
+    "cta-bg.png"
+  ],
+  "note": "Placeholder images - replace with actual AI-generated images using npm run gen:images with valid GOOGLE_API_KEY"
+}
